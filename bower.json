@@ -1,19 +1,18 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "ufocore-message",
+  "main": "./ufocore-message.min.js",
   "version": "1.0.1",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/fiscalobject/ufocore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "UFO Message Verification and Signing for UFOcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "ufo",
+    "ufocore",
     "satoshi",
     "message",
     "signing"

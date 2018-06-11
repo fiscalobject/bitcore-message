@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message",
+  "name": "ufocore-message",
   "version": "1.0.1",
-  "description": "Bitcoin Messages for Bitcore",
+  "description": "UFO Messages for UFOcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,22 +11,21 @@
     "build": "gulp"
   },
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "ufo",
+    "ufocore",
     "satoshi",
     "message",
     "signing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/fiscalobject/ufocore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "bitcore-lib": "^0.13.19"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
+    "bitcore-build": "fiscalobject/ufocore-build",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
